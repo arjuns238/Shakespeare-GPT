@@ -75,7 +75,7 @@ embashed.
 COMINIUS:
 Pray you, do.
 ```
-Not bad if you considering that the model was trained for just 45 minutes on a modest GPU :P
+Not bad considering the model was trained for just 45 minutes on a modest GPU :P
 
 <h2> What does this mean in the context of Large Language Models? </h2>
 
