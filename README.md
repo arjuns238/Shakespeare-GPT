@@ -77,7 +77,7 @@ Pray you, do.
 ```
 Not bad if you consider the fact that the model was trained for just 45 minutes on a modest GPU :P
 
-<h2> What does this mean in the context of Large Languege Models? </h2>
+<h2> What does this mean in the context of Large Language Models? </h2>
 
 In the realm of Large Languege Models (LLMs), ShakespeareGPT functions as a document completer, adept at generating text in the style of its training data. This marks the initial phase akin to pre-training in transformer models. Pretraining an LLM refers to the initial phase of training where the model learns general language representations from a vast and diverse corpus of text data. This phase is crucial for enabling the model to understand the nuances of language, syntax, semantics, and context across various domains before it is fine-tuned for specific tasks. The objective function during pretraining is for the model to learn to predict the next token in a sequence
 
