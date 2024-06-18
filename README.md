@@ -3,7 +3,7 @@
 ShakespeareGPT is a project where I delve into the world of character-level transformer models using PyTorch. This decoder-only GPT model is designed to mimic the literary style of William Shakespeare, trained on a curated dataset of his works stored in input.txt. Seeing as chatGPT is all the rage right now, I decided to take a look under the hood. 
 
 ShakespeareGPT shows promising results, demonstrating an understanding of Shakespearean structure while also producing some less coherent outputs characteristic of character-level models.
-The output after training for about 2000 steps is the following:
+The output after training for about 4500 steps is the following:
 ```
 RIVERSS:
 I cannot nor tetding those sit you shalt do
