@@ -75,7 +75,7 @@ embashed.
 COMINIUS:
 Pray you, do.
 ```
-Not bad if you consider the fact that the model has trained only for 45 minutes on a modest GPU :P
+Not bad if you consider the fact that the model was trained for just 45 minutes on a modest GPU :P
 
 <h2> What does this mean in the context of LLMs? </h2>
 
